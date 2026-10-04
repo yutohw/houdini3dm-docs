@@ -3,6 +3,8 @@
 Reads and writes Rhino `.3dm` files in Houdini. Two SOP assets and one Rhino-side
 Python script.
 
+[Buy on Gumroad](https://yutohw.gumroad.com/l/houdini3dm).
+
 | | |
 | --- | --- |
 | Version | 1.1.0 |
